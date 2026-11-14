@@ -48,12 +48,12 @@ MovieDB-CRUD-project-1/
 
 ### ➕ Add Movie
 ![Add Movie](./Screenshots/Screenshot2.png)
-===
+**---------------------------------------------------------------------**
 ![Add Movie](./Screenshots/Screenshot3.png)
 
 ### 🎬 All Movies
 ![All Movies](./Screenshots/Screenshot4.png)
-===
+**---------------------------------------------------------------------**
 ![All Movies](./Screenshots/Screenshot3.png)
 
 ### 🔍 Specific Movie
@@ -61,12 +61,12 @@ MovieDB-CRUD-project-1/
 
 ### ✏️ Update Movie
 ![Update Movie](./Screenshots/Screenshot6.png)
-===
+**---------------------------------------------------------------------**
 ![Update Movie](./Screenshots/Screenshot7.png)
 
 ### 🗑️ Delete Movie
 ![Delete Movie](./Screenshots/Screenshot8.png)
-===
+**---------------------------------------------------------------------**
 ![Delete Movie](./Screenshots/Screenshot9.png)
 
 
