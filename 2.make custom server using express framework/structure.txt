@@ -1,0 +1,43 @@
+1.install express Framework using npm.
+  npm i express / npm install express
+
+2.create a Server
+  steps : 
+      a.import express with ES5 Method.
+      b.assign all express features with app variable.
+      c.create a routing  
+          methods : get (post , put , patch , delete : continue)
+      there are two categories:
+         i.static route
+         ii.dynamic route(soon)
+
+
+         ex : app.method(route,controller);
+                         controller = create using function
+                         (response , response)=>{
+
+                         }    
+                         request : url data 
+                         response : Server data
+                            response.send(); //text browser sudhi pochade 6e
+                            response.render(); // with data biji jagyaye moklase
+                            response.redirect(); // without data biji jagyaye moklase
+
+  steps :
+      a.import express with ES6 Method.
+      b.add "type" : "module" in package.json file.
+      c.assign all express features with app variable.    
+      d.create a routing
+
+
+===================================================
+server file ma koy pan  changes thay 6e te automatically server restart kare 6e
+nodemon
+   npm i nodemon / npm install nodemon
+
+   package.json in :
+      script in :
+        "dev" : "nodemon server.js"  // add package.json
+
+   run command :
+      nodemon server.js

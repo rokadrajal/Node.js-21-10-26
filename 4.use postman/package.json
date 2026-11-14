@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^5.3.0",
+    "i": "^0.3.7",
+    "nodemon": "^3.1.14",
+    "npm": "^12.2.2"
+  },
+  "name": "4.use-postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
