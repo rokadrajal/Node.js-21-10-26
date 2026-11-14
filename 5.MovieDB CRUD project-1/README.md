@@ -11,6 +11,13 @@ A simple Movie Management REST API built using **Node.js, Express.js, MongoDB, a
 - Nodemon
 - Postman
 
+## ✨ Features
+
+- Add Movie
+- Get All Movies
+- Get Specific Movie
+- Update Movie
+- Delete Movie 
 
 ## 📁 Project Structure
 
@@ -32,7 +39,6 @@ MovieDB-CRUD-project-1/
 - **Read:** Get all movies or find a specific movie.
 - **Update:** Update existing movie details using Movie ID.
 - **Delete:** Delete a movie using Movie ID.
-
 
 
 ## 📸 Screenshots
@@ -62,3 +68,5 @@ MovieDB-CRUD-project-1/
 
 
 ## 📽️ Video Link
+
+https://drive.google.com/file/d/1YA5mLi7Rpt1MR24-7d1Ajqonu4yIN8az/view?usp=sharing

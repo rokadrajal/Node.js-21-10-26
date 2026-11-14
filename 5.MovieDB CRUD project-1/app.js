@@ -34,8 +34,6 @@ app.get("/" , async(req,res)=>{
 
 app.post("/addmovie" , async(req,res)=>{
     const movieData = await movie.create(req.body);
-    console.log(req.body);
-    
 
     res.json({
         msg : "Movie Added Successfully!",
